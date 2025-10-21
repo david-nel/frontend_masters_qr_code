@@ -76,3 +76,7 @@ a {
 .qr__paragraph {
     color: var(--colour-slate-500);
 }
+
+.attribution {
+  text-align: center;
+}
